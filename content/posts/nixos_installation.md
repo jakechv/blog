@@ -1,8 +1,8 @@
 +++
 title = "Setting Up NixOS: Dell XPS 9370 4K and EXWM"
 author = ["Jacob Chvatal"]
-date = 2019-12-20T00:00:00+00:00
-lastmod = 2020-07-20T02:42:21+00:00
+date = 2020-07-20T00:00:00+00:00
+lastmod = 2020-07-20T02:44:26+00:00
 tags = ["nixos"]
 draft = false
 +++

@@ -1,7 +1,7 @@
 #+SETUPFILE: ./hugo_setup.org
 #+TITLE: Setting Up NixOS: Dell XPS 9370 4K and EXWM
 #+HUGO_TAGS: nixos
-#+DATE: <2019-12-20 Fri>
+#+DATE: <2020-07-20>
 
 I've long been tired of the dependency management of Linux and
 wanted to try a new system: [[https://nixos.org][NixOS]]. It's an operating system
