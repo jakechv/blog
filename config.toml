@@ -8,55 +8,55 @@ googleAnalytics = "n/a"
 hasCJKLanguage = false
 
 [params]
-	author = "Jacob Chvatal"
-	description = "blog"
-	bio = "CS Student at Northeastern University"
+    author = "Jacob Chvatal"
+    description = "blog"
+    bio = "CS Student at Northeastern University"
 
-	twitter = "1094644299575291904"
+    twitter = "1094644299575291904"
 
-	enableRSS = true
-	enableToc = true
+    enableRSS = true
+    enableToc = true
 
-	enableDisqus = false
-	disqusShortname = "your_disqus_short_name"
+    enableDisqus = false
+    disqusShortname = "your_disqus_short_name"
 
-	enableSummary = true
-	# Set the value to true if use description in post front matter replace content summary
-	useDescriptionReplaceSummary = false
+    enableSummary = true
+    # Set the value to true if use description in post front matter replace content summary
+    useDescriptionReplaceSummary = false
 
-	enableGoogleAnalytics = false
+    enableGoogleAnalytics = false
 
-	enableTwitterCard = false
-	# The url for twitter card image, default is avatar.png in static/images directory
-	twitterCardImage = ""
+    enableTwitterCard = false
+    # The url for twitter card image, default is avatar.png in static/images directory
+    twitterCardImage = ""
 
-	# The variables below are optionally too and can be used to
-	# translate or customize each string of the theme.
+    # The variables below are optionally too and can be used to
+    # translate or customize each string of the theme.
 
-	# Navigation links
-	home = ""
-	about = ""
-	archive = ""
-	subscribe = ""
+    # Navigation links
+    home = ""
+    about = ""
+    archive = ""
+    subscribe = ""
 
-	olderPosts = ""
-	newerPosts = ""
-	copyright = ""
+    olderPosts = ""
+    newerPosts = ""
+    copyright = ""
 
-	# show latest posts in single page
-	showLatestPosts = false
-	readMore = ""
+    # show latest posts in single page
+    showLatestPosts = false
+    readMore = ""
 
-	# Share
-	enableShare = false
-	tweet = ""
-	share = ""
+    # Share
+    enableShare = false
+    tweet = ""
+    share = ""
 
-	# 404 page
-	title404 = ""
-	subtitle404 = ""
+    # 404 page
+    title404 = ""
+    subtitle404 = ""
 
 # Add additional social link entries underneath
 [social]
-	twitter-square = "https://www.twitter.com/jakechvatal"
-	github-square = "https://www.github.com/jakechv"
+    twitter-square = "https://www.twitter.com/jakechvatal"
+    github-square = "https://www.github.com/jakechv"
