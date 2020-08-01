@@ -9,7 +9,7 @@ pygmentsUseClasses = true
 [params]
   description = "Jacob Chvatal's blog."
   copyright = "Copyright © 2020 Jacob Chvatal"
-  dark = "auto"
+  dark = "off"
   highlight = true
 
 [menu]
