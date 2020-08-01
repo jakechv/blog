@@ -2,3 +2,6 @@
 * TODO write article about exwm, doom emacs etc
 this should cover different options for configuring and installing emacs,
 doom emacs, exwm under the nix/os framework
+* TODO add site icons to footer
+these should be configurable in config.toml
+where should the svg files go?

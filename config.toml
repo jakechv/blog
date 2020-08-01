@@ -30,6 +30,18 @@ pygmentsUseClasses = true
 [permalinks]
   posts = "/:title/"
 
+[footer]
+  [[footer.main]]
+    identifier = "cc"
+    name = "cc"
+    path = ""
+    url = ""
+  [[footer.main]]
+    identifier = "webring"
+    name = "webring"
+    path = ""
+    url = ""
+
 [markup.goldmark.renderer]
   # Allow HTML in Markdown
   unsafe = true
