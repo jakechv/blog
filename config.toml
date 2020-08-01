@@ -1,62 +1,38 @@
-# Site settings
-baseurl = "https://blog.chvatal.com/"
-languageCode = "en"
+baseURL = "https://blog.chvatal.com"
 title = "Jacob Chvatal"
-theme = "hugo-theme-cactus-plus"
-googleAnalytics = "n/a"
-# Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
-hasCJKLanguage = false
+theme = "etch"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 [params]
-    author = "Jacob Chvatal"
-    description = "blog"
-    bio = "CS Student at Northeastern University"
+  description = "Jacob Chvatal's blog."
+  copyright = "Copyright © 2020 Jacob Chvatal"
+  dark = "auto"
+  highlight = true
 
-    twitter = "1094644299575291904"
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
 
-    enableRSS = true
-    enableToc = true
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
 
-    enableDisqus = false
-    disqusShortname = "your_disqus_short_name"
+[permalinks]
+  posts = "/:title/"
 
-    enableSummary = true
-    # Set the value to true if use description in post front matter replace content summary
-    useDescriptionReplaceSummary = false
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
 
-    enableGoogleAnalytics = false
-
-    enableTwitterCard = false
-    # The url for twitter card image, default is avatar.png in static/images directory
-    twitterCardImage = ""
-
-    # The variables below are optionally too and can be used to
-    # translate or customize each string of the theme.
-
-    # Navigation links
-    home = ""
-    about = ""
-    archive = ""
-    subscribe = ""
-
-    olderPosts = ""
-    newerPosts = ""
-    copyright = ""
-
-    # show latest posts in single page
-    showLatestPosts = false
-    readMore = ""
-
-    # Share
-    enableShare = false
-    tweet = ""
-    share = ""
-
-    # 404 page
-    title404 = ""
-    subtitle404 = ""
-
-# Add additional social link entries underneath
-[social]
-    twitter-square = "https://www.twitter.com/jakechvatal"
-    github-square = "https://www.github.com/jakechv"
+  [markup.tableOfContents]
+    ordered = true

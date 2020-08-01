@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-cactus-plus"]
 	path = themes/hugo-theme-cactus-plus
 	url = https://github.com/jakechv/hugo-theme-cactus-plus.git
+[submodule "themes/etch"]
+	path = themes/etch
+	url = https://github.com/jakechv/etch.git
