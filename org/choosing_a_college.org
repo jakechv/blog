@@ -1,0 +1,98 @@
+#+SETUPFILE: ./hugo_setup.org
+#+TITLE: Choosing A College
+#+HUGO_TAGS: college admissions
+#+DATE: <2020-07-31>
+Here is some advice I've compiled regarding selecting and attending a university in the US.
+
+* Finding Colleges
+Though imperfect, the [[https://www.usnews.com/best-colleges/rankings/national-universities][US News and World Report]] provides a fairly accurate guideline to the
+best colleges in the US. Take the rankings with a grain of salt, but remember that the
+ranking of the university has some significance:
+- Universities with higher rankings typically have more funding for each student
+- College name recognition makes finding a job much easier and brings desired companies to your school
+- Higher rankings are likely to attract students of a higher caliber
+Rankings should by no means help you make your final decision,
+but looking into the top colleges overall and in your field of interest will help
+give you a better idea of what makes these schools appealing, and perhaps what type of
+environment you would like out of those top choices.
+
+** Do you have a particular interest in the field you would like to pursue deeply?
+If so, look at the faculty at each university who could be relevant to your interests
+and more strongly consider colleges at which there is a concentrated interest
+in a specific topic. Even if you do not have a specific interest in a field,
+a department with a depth of knowledge in a particular area is likely to enhance
+the potential for learning 'depth' throughout your undergraduate cirriculum.
+
+[[https://csrankings.org][CS Rankings]], for example, is a website dedicated to tracking research
+output and weighting institutions based on their graduate research strengths.
+Other disciplines have similar rankings systems that can be looked at for guidance.
+
+** What do you want to do outside of college?
+The location of the university is one of the most important aspects of the decision.
+It'll determine what you have access to in your free time, the kind of people you'll connect
+with, the place you'll have the most connections in and eventually could play a hand in
+the location of your employment. Read a bit about the 'personality' of the city or town
+that each college resides in, watch some videos, and visit if you can. The environment
+is the part of the college selection process that is most difficult to quantify, and takes
+knowing a bit more about what you want to determine.
+
+If you don't have a strong urge to live in a given place, that's fine -- you'll be able to
+better optimize for academic interests, and you're likely to meet plenty of friends at any
+college you choose to attend.
+
+** Tertiary Considerations
+Other factors could make colleges significantly cheaper.
+
+* Assembling a List
+Now that you have a variety of colleges you're interested in, it's time to get
+a bit more realistic.
+
+Applying to top schools with acceptance rates in the single digits is more or less a lottery.
+Admissions staff spend as little as five minutes looking at each application and colleges often
+select for a particular student profile -- newsworthy accomplishments nonwithstanding,
+even the best candidates can lose the college lottery.
+
+** The Portfolio
+As such, it's best to develop a 'portfolio' of colleges with a variety of different risk factors.
+Critically examine yourself, your scores, and your extracirriculars.
+These factors depend on the individual and their circumstances, but you likely want a spread similar to the following, assuming applications to about ten different schools:
+
+- 2-3 top schools. These are the best schools money can buy in your field; the colleges you'd love to attend.
+  Your test scores are a match for their high expectations and your extracirriculars may be considered
+  by the colleges as defining characteristics. Regardless of financial constraint, it's important to apply to at least one 'dream' institution -- otherwise, you'll be left wondering what could have been.
+- 3-3 'match' schools. These are good schools you feel your profile is a good match for -- they have relatively forgiving acceptance rates and your test scores are compatible with their expectations. You would be very happy attending one of these schools, and they provide a good balance between financial viability, quality of academics and other considerations.
+- 2-3 'safety' schools. These are schools for which your test scores are in the 75th percentile or higher. They have high acceptance rates relative to your other choices and you're confident that you would be accepted here. These may not be located in your favorite city, or may not have the best ranked program, but they're good default options to pursue in case your other applications don't go well.
+- 1-2 'scholarship' schools. These schools are safety schools that might not be as appealing academically, but carry financial benefit -- they're schools that are very likely to provide a significant amount of merit-based financial aid. UT Dallas is a notable example of this -- I'd recommend that everyone at least considers the school given their willingness to provide significant scholarships to out of state and international students to well-qualified students. Even if money is currently no object, financial circumstances can always change and it's good to be prepared for such an eventuality.
+  [[https://blog.prepscholar.com/colleges-with-full-ride-scholarships][Here]] is a good place to start for finding such schools.
+
+
+* Resources
+There are lots of good resources to look into regarding college applications in the US.
+[[https://reddit.com/r/applyingtocollege][The Applying to College subreddit]] and [[https://collegeconfidential.com][College Confidential]] are both forums on which students,
+admissions counselors, and parents seek and provide advice for students looking to find the right college.
+These forums are the best place to seek answers regarding college admissions.
+
+Be warned: it's easy to become caught up in their obsession over ranking and prestige.
+Your personal interests will /always/ matter more than a perceived ranking or reputation that
+a certain college holds.
+
+Specific admissions blogs can help you learn more about the individual experiences of many
+college students, their individual college experiences and their perspectives on the universities
+they attend. One of my favorites is the [[https://mitadmissions.org/blogs/][MIT admissions blog]] -- it has consistently great writing
+and genuine insight from MIT students with a variety of backgrounds.
+
+The subreddits and Facebook groups for individual colleges (for example, https://reddit.com/r/neu)
+provide insight into the day to day lives of students on campus and can help you feel out the campus culture.
+These are relatively easy to find -- just look up the college's name on the appropriate platform.
+Be warned that the students typically posting the most are typically those with the most to complain about, though; read about complaints students have, but don't take them for granted as attributes of the school.
+
+College 'vlogs' or 'tours' on YouTube are, in my opinion, the best way to get a 'feel' for the university;
+there tend to be a few students at most schools passionate about making such videos and showcasing their
+experiences. For example, [[https://www.youtube.com/watch?v=YYaJoVxo88o][here's one such video made by a friend at Northeastern]].
+
+* Overall
+Though this decision is an incredibly important one, don't spend too much time worrying about it.
+Wherever you go, you'll be able to find a community of those who with the same interests and
+professors who share your academic passions. You'll warm up to the location too.
+
+College is just four years of your life; make the most of it, but don't spend too much time worried. You'll have a good experience regardless of where you end up.
